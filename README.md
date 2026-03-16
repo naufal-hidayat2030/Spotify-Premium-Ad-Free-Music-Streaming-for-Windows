@@ -3,7 +3,7 @@
 [![Stars](https://img.shields.io/github/stars/naufal-hidayat2030/Spotify-Premium-Ad-Free-Music-Streaming-for-Windows)](https://github.com/naufal-hidayat2030/Spotify-Premium-Ad-Free-Music-Streaming-for-Windows)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Unlock full Spotify Premium features on Windows – ad-free listening, offline downloads, high-quality audio and unlimited skips. Free download. SEO: spotify premium download, free spotify premium, spotify premium free, spotify premium unlocked, spotify premium 2026.
+Unlock full Spotify Premium features on Windows – ad-free listening, offline downloads, high-quality audio and unlimited skips. Free download. spotify premium download, free spotify premium, spotify premium free, spotify premium unlocked, spotify premium 2026.
 
 ---
 
